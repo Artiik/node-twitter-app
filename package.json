@@ -1,0 +1,24 @@
+{
+  "name": "twitter-finder",
+  "version": "1.0.0",
+  "description": "Find and analyse twitter feeds",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artiik/node-twitter-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artiik/node-twitter-app/issues"
+  },
+  "homepage": "https://github.com/Artiik/node-twitter-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.10.2"
+  }
+}
